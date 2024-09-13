@@ -47,7 +47,7 @@ Download the BERKA dataset from [Kaggle](https://www.kaggle.com/datasets/marcelo
 Request access to the BANK and BANK AUTOMATED datasets and place the two parquet files inside the `datasets/` directory.
 
 For requesting access you must:
-1) Go to [Zenodo using this link](https://zenodo.org/records/11121973?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTcxNTA3MTk2MCwiZXhwIjoxNzMyMDYwNzk5fQ.eyJpZCI6IjczN2UyZjQ2LWFiOWMtNGI4Yy05MGY3LTI4YWE4ZDIzYjg1NiIsImRhdGEiOnt9LCJyYW5kb20iOiI2YjQyMTA3ZWExZDVhNTE4MzA0NTEwNjU5NWU4OGIyNiJ9.Zy9yx-CktiF5gT1oxAQ98JJYMVLrmDn-J7Z2TUQZN5drAF0j5VPIYu_gQkuqbi7-B4Gs2kFciSsyVgnzatldkw).
+1) Go to [Zenodo using this link](https://zenodo.org/records/11121973).
 2) Request access to the data.
 3) Accept the requirements of not re-sharing it without permission of the authors (data will be freely available in the future, after the review process).
 4) Download!
